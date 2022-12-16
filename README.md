@@ -10,7 +10,7 @@
 
 #### 1. [SMK AL-Hadiid 1 Cileungsi](http://alhadiid.mysch.id/) | Computer and Network Engineering (TKJ) | Cileungsi `2020-2023`
    - Chief of 12 Grade Class
- #### 2. [MTS Nurul Qur'an](https://www.nurul-quran.sch.id/) | Bogor `2018-2020
+ #### 2. [MTS Nurul Qur'an](https://www.nurul-quran.sch.id/) | Bogor `2018-2020`
    
 
 ## Work Experience:
@@ -44,3 +44,4 @@
 
 
 
+[webdev]: https://www.facebook.com/profile.php?id=100007768548432
