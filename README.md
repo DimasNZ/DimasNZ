@@ -18,7 +18,7 @@
    - Data Entry
    - Data Register
    - Data Validation
-   - Vaccne Checker
+   - Vaccine Checker
 ---
 
 ### Languages and Tools:
